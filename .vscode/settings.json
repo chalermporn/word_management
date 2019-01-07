@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": ".venv/bin/python",
+    "python.linting.pylintEnabled": true,
+//     "python.linting.pylintArgs": [
+//         "--disable=W0312",
+//         "unresolved-import",
+//         "use-befor-def"
+//  ],
+}
